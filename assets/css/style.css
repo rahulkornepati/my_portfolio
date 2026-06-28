@@ -2072,8 +2072,6 @@ margin:20px 16px !important;
   }
 }
 
-@media (max-width:768px){
-
 .sidebar{
     max-height:200px !important;
 }
@@ -2111,7 +2109,4 @@ margin:20px 16px !important;
 
 .info-content .title{
     display:inline-block;
-}
-
-
 }
